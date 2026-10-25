@@ -1,6 +1,8 @@
 # 👋 Hey, I'm Jalana Yashodhana!
 
-### 💻 Aspiring System Administrator | Linux Enthusiast | DevOps Learner
+
+### 💻 Aspiring DevOps Learner
+
 
 I’m a BICT (Hons) undergraduate passionate about **Linux administration, IT infrastructure, networking, cloud computing, and automation**. I enjoy building hands-on projects, troubleshooting technical challenges, and documenting what I learn.
 

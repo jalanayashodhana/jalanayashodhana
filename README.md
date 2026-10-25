@@ -39,6 +39,8 @@ I’m a BICT (Hons) undergraduate passionate about **Linux administration, IT in
 **DevOps & Cloud**
 
 `Git` `GitHub` `Docker` `AWS`
+ 
+**To be continued**
 
 ---
 

@@ -85,6 +85,7 @@ I believe practical labs, real projects, and consistent learning are essential t
 ## 🤝 Connect With Me
 
 - 🐙 GitHub: [@jalanayashodhana](https://github.com/jalanayashodhana)
+     Linkdin: www.linkedin.com/in/jalana-yashodana-0519b9293
 
 ---
 
